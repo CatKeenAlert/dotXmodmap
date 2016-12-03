@@ -19,12 +19,18 @@ keycode 65 = space Menu space Menu Escape Escape
 keycode 66 = backslash bar backslash bar dollar dollar
 
 
-keycode 44 = n N n N Left Left
-keycode 45 = e E e E Down Down
-keycode 46 = i I i I Up Up
-keycode 47 = o O o O Right Right
 
-keycode 38 = a A a A minus minus
-keycode 39 = r R r R underscore underscore
-keycode 40 = s S s S equal equal
-keycode 41 = t T t T plus plus
+keycode 38 = a A a A minus 	1
+keycode 39 = r R r R underscore	2
+keycode 40 = s S s S equal	3
+keycode 41 = t T t T plus	4
+keycode 42 = d D d T Home	5
+keycode 43 = h H h H End	6
+keycode 44 = n N n N Left	7
+keycode 45 = e E e E Down	8
+keycode 46 = i I i I Up		9
+keycode 47 = o O o O Right	0
+
+keycode 55 = v V v V Delete Delete
+keycode 56 = b B b B Insert Insert
+keycode 57 = k K k K BackSpace BackSpace
