@@ -3,10 +3,16 @@ pointer = default
 
 remove mod4 = Super_L
 remove control = Control_L
+remove shift = Shift_L
+remove mod1 = Alt_L
 keycode 121 = Caps_Lock NoSymbol Caps_Lock
 keycode 133 = Control_L NoSymbol Control_L
+keycode 64 = Shift_L NoSymbol Shift_L
+keycode 37 = Alt_L NoSymbol Alt_L
 add lock = Caps_Lock
 add control = Control_L
+add shift = Shift_L
+add mod1 = Alt_L
 
 
 keycode 65 = space Menu space Menu Escape Escape
