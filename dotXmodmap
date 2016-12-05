@@ -18,14 +18,15 @@ keycode 23 = Tab Escape Tab Escape
 keycode 65 = space Menu space Menu BackSpace 
 keycode 66 = Undo Redo Undo Redo Delete
 
-keycode 11 = 2 at 2 at F11
+keycode 11 = 2 at 2 at F5 F12
+keycode 19 = 0 NoSymbol 0 NoSymbol F5
 
-keycode 38 = a A a A 1 slash 
+keycode 38 = a A a A 1 backslash 
 keycode 39 = r R r R 2 period
-keycode 40 = s S s S 3 backslash
+keycode 40 = s S s S 3 slash
 keycode 41 = t T t T 4 Return
 keycode 42 = d D d T 5 equal
-keycode 43 = h H h H 6 F12
+keycode 43 = h H h H 6 F11
 keycode 44 = n N n N 7 parenleft
 keycode 45 = e E e E 8 parenright
 keycode 46 = i I i I 9 asciicircum
