@@ -18,13 +18,13 @@ keycode 23 = Tab Undo Tab Undo
 keycode 65 = space BackSpace space BackSpace Return
 keycode 66 = BackSpace Escape BackSpace Escape Delete
 
-keycode 11 = 2 at 2 at 
+keycode 11 = 2 at 2 at Menu
 keycode 19 = 0 Redo 0 Redo F5 F11
 
 keycode 38 = a A a A 1 backslash 
 keycode 39 = r R r R 2 period
 keycode 40 = s S s S 3 slash
-keycode 41 = t T t T 4 Return
+keycode 41 = t T t T 4 
 keycode 42 = d D d T 5 equal
 keycode 43 = h H h H 6 bar
 keycode 44 = n N n N 7 parenleft
@@ -41,12 +41,12 @@ keycode 57 = k K k K less bracketright
 keycode 58 = m M m M greater Return
 
 keycode 24 = q Q q Q Home
-keycode 25 = w W w W Up
-keycode 26 = f F f F Down
+keycode 25 = w W w W Left
+keycode 26 = f F f F Right
 keycode 27 = p P p P dollar percent
 keycode 28 = g G g G minus braceleft
 keycode 29 = j J j J asciicircum exclam
 keycode 30 = l L l L underscore braceright
-keycode 31 = u U u U Left
-keycode 32 = y Y y Y Right
+keycode 31 = u U u U Up
+keycode 32 = y Y y Y Down
 keycode 33 = semicolon colon semicolon colon End
