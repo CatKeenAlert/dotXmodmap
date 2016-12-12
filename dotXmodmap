@@ -3,22 +3,50 @@ pointer = default
 
 remove mod4 = Super_L
 remove control = Control_L
+remove shift = Shift_L
+remove mod1 = Alt_L
 keycode 121 = Caps_Lock NoSymbol Caps_Lock
-keycode 133 = Super_L NoSymbol Super_L
+keycode 133 = Control_L NoSymbol Control_L
+keycode 64 = Shift_L NoSymbol Shift_L
+keycode 37 = Alt_L NoSymbol Alt_L
 add lock = Caps_Lock
-add control = Super_L
+add control = Control_L
+add shift = Shift_L
+add mod1 = Alt_L
 
+keycode 23 = Tab Undo Tab Undo
+keycode 65 = space BackSpace space BackSpace Return
+keycode 66 = BackSpace Escape BackSpace Escape Delete
 
-keycode 65 = space Menu space Menu Escape Escape
-keycode 66 = backslash bar backslash bar dollar dollar
+keycode 11 = 2 at 2 at Menu
+keycode 19 = 0 Redo 0 Redo F5 F11
 
+keycode 38 = a A a A 1 backslash 
+keycode 39 = r R r R 2 period
+keycode 40 = s S s S 3 slash
+keycode 41 = t T t T 4 
+keycode 42 = d D d T 5 equal
+keycode 43 = h H h H 6 bar
+keycode 44 = n N n N 7 parenleft
+keycode 45 = e E e E 8 parenright
+keycode 46 = i I i I 9 asciicircum
+keycode 47 = o O o O 0 dollar
+keycode 48 = apostrophe quotedbl apostrophe quotedbl grave
 
-keycode 44 = n N n N Left Left
-keycode 45 = e E e E Down Down
-keycode 46 = i I i I Up Up
-keycode 47 = o O o O Right Right
+keycode 53 = x X x X 
+keycode 54 = c C c C asterisk ampersand
+keycode 55 = v V v V asciitilde numbersign
+keycode 56 = b B b B plus bracketleft
+keycode 57 = k K k K less bracketright
+keycode 58 = m M m M greater Return
 
-keycode 38 = a A a A minus minus
-keycode 39 = r R r R underscore underscore
-keycode 40 = s S s S equal equal
-keycode 41 = t T t T plus plus
+keycode 24 = q Q q Q Home
+keycode 25 = w W w W Left
+keycode 26 = f F f F Right
+keycode 27 = p P p P dollar percent
+keycode 28 = g G g G minus braceleft
+keycode 29 = j J j J asciicircum exclam
+keycode 30 = l L l L underscore braceright
+keycode 31 = u U u U Up
+keycode 32 = y Y y Y Down
+keycode 33 = semicolon colon semicolon colon End
