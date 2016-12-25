@@ -1,15 +1,15 @@
 
 pointer = default
 
-remove mod4 = Super_L
-remove control = Control_L
+!remove mod4 = Super_L
+!remove control = Control_L
 remove shift = Shift_L
 remove mod1 = Alt_L
 keycode 121 = Caps_Lock NoSymbol Caps_Lock
-keycode 133 = Control_L NoSymbol Control_L
+!keycode 133 = Control_L NoSymbol Control_L
 keycode 64 = Shift_L NoSymbol Shift_L
 keycode 37 = Alt_L NoSymbol Alt_L
-add lock = Caps_Lock
+!add lock = Caps_Lock
 add control = Control_L
 add shift = Shift_L
 add mod1 = Alt_L
@@ -24,12 +24,12 @@ keycode 19 = 0 Redo 0 Redo F5 F11
 keycode 38 = a A a A 1 backslash 
 keycode 39 = r R r R 2 period
 keycode 40 = s S s S 3 slash
-keycode 41 = t T t T 4 
-keycode 42 = d D d T 5 equal
+keycode 41 = t T t T 4 semicolon
+keycode 42 = d D d T 5 asciicircum
 keycode 43 = h H h H 6 bar
 keycode 44 = n N n N 7 parenleft
 keycode 45 = e E e E 8 parenright
-keycode 46 = i I i I 9 asciicircum
+keycode 46 = i I i I 9 equal
 keycode 47 = o O o O 0 dollar
 keycode 48 = apostrophe quotedbl apostrophe quotedbl grave
 
